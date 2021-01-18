@@ -1,1 +1,1 @@
-# git_inicial_rc
+descripcion de git inicial
